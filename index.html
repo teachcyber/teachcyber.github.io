@@ -1,66 +1,419 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
 
-  <head>
+<head>
+    <!--====== USEFULL META ======-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Teach cybersecurity exercises and projects in cs1, cs2, cs3, defense, offense, interdisciplinary" />
+    <meta name="keywords" content="teach, security, cyber, exercises, projects" />
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <!--====== TITLE TAG ======-->
+    <title>TeachCyber</title>
 
-    <title>Coming Soon - TeachCyber Project</title>
+    <!--====== FAVICON ICON =======-->
+    <link rel="shortcut icon" type="image/ico" href="img/favicon.png" />
 
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!--====== STYLESHEETS ======-->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/stellarnav.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
 
-    <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!--====== MAIN STYLESHEETS ======-->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
 
-    <!-- Custom styles for this template -->
-    <link href="css/coming-soon.min.css" rel="stylesheet">
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
 
-  </head>
+<body class="single-page">
 
-  <body>
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
 
-    <div class="overlay"></div>
+    <!--- PRELOADER -->
+    <div class="preeloader">
+        <div class="preloader-spinner"></div>
+    </div>
 
-    <div class="masthead">
-      <div class="masthead-bg"></div>
-      <div class="container h-100">
-        <div class="row h-100">
-          <div class="col-12 my-auto">
-            <div class="masthead-content text-white py-5 py-md-0">
-              <h1 class="mb-3">TeachCyber<br><br>Coming Soon!</h1>
-              <p class="mb-5">We're working hard to finish the development of the TeachCyber site. Our target launch date is <strong>May 2019</strong>!</p>
+    <!--SCROLL TO TOP-->
+    <a href="#home" class="scrolltotop"><i class="fa fa-long-arrow-up"></i></a>
+
+    <!--START TOP AREA-->
+    <header class="top-area single-page" id="home">
+        <div class="top-area-bg" data-stellar-background-ratio="0.6"></div>
+        <div class="header-top-area">
+            <!--MAINMENU AREA-->
+            <div class="mainmenu-area" id="mainmenu-area">
+                <div class="mainmenu-area-bg"></div>
+                <nav class="navbar">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <a href="index.html" class="navbar-brand"><img src="img/logo.png" alt="Teach Cyber"></a>
+                        </div>
+                        <!--<div class="search-and-language-bar pull-right">
+                            <ul>
+                                <li class="search-box"><i class="fa fa-search"></i></li>
+                            </ul>
+                            <form action="#" class="search-form">
+                                <input type="search" name="search" id="search">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                        </div>-->
+                        <div id="main-nav" class="stellarnav">
+                            <ul id="nav" class="nav navbar-nav">
+                                <li><a href="index.html">Home</a>
+                                </li>
+                                <li><a href="contact.html">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
             </div>
-          </div>
+            <!--END MAINMENU AREA END-->
         </div>
-      </div>
+        <div class="welcome-area">
+            <div class="area-bg"></div>
+            <div class="container">
+                <div class="row flex-v-center">
+                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                        <div class="welcome-text text-center">
+                            <h2>Exercises and projects to help teach cybersecurity</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--END TOP AREA-->
+
+    <!--ABOUT DETAILS AREA-->
+    <section class="about-details-area section-padding wow fadeIn">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
+                    <div class="area-title text-center wow fadeIn">
+                        <h2>Cybersecurity assignments</h2>
+                        <p>Our goal is to compile cybersecurity exercises from faculty who teach security courses. If you developed an exercise and would like to share it with the community, please <a href="contact.html">contact us</a>.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-xs-12">
+                    <ul class="about-details-menu">
+                        <li class="active"><a data-toggle="tab" href="#cs0" aria-expanded="true">CS0</a></li>
+                        <li><a data-toggle="tab" href="#cs1">CS1</a></li>
+                        <li><a data-toggle="tab" href="#cs2">CS2</a></li>
+                        <li><a data-toggle="tab" href="#defense">Defense</a></li>
+                        <li><a data-toggle="tab" href="#offense">Offense</a></li>
+                        <li><a data-toggle="tab" href="#interdisciplinary">Interdisciplinary</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                    <div class="tab-content about-details-content">
+                        <div id="cs0" class="company-anual-reports tab-pane fade active in">
+                            <div class="row">
+                              <div class="annual-reports-content">
+                                <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                    <h4><a href="http://cis1.towson.edu/~cssecinj/" target="_blank" rel="noopener noreferrer">Security Injections: Secure Coding</a></h4>
+                                    <h4><code>Languages: C++/Java/Python</code></h4>
+                                    <p>Includes modules on:</p>
+                                    <ul>
+                                        <li><i class="fa fa-check"></i>Integer error</li>
+                                        <li><i class="fa fa-check"></i>Input validation</li>
+                                        <li><i class="fa fa-check"></i>Buffer overflow</li>
+                                        <li><i class="fa fa-check"></i>Software development life cycle</li>
+                                        <li><i class="fa fa-check"></i>Data hiding</li>
+                                    </ul>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                        <div id="cs1" class="company-anual-reports tab-pane fade">
+                            <div class="row">
+                                <div class="annual-reports">
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                          <h4><a href="http://cis1.towson.edu/~cssecinj/" target="_blank" rel="noopener noreferrer">Security Injections: Secure Coding</a></h4>
+                                          <h4><code>Languages: C++/Java/Python</code></h4>
+                                          <p>Includes modules on:</p>
+                                          <ul>
+                                              <li><i class="fa fa-check"></i>Integer error</li>
+                                              <li><i class="fa fa-check"></i>Input validation</li>
+                                              <li><i class="fa fa-check"></i>Buffer overflow</li>
+                                              <li><i class="fa fa-check"></i>Software development life cycle</li>
+                                              <li><i class="fa fa-check"></i>Best practices for secure variables</li>
+                                          </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="cs2" class="company-anual-reports tab-pane fade">
+                            <div class="row">
+                                <div class="annual-reports">
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                          <h4><a href="http://cis1.towson.edu/~cssecinj/" target="_blank" rel="noopener noreferrer">Security Injections: Secure Coding</a></h4>
+                                          <h4><code>Languages: C++/Java/Python</code></h4>
+                                          <p>Includes modules on:</p>
+                                          <ul>
+                                              <li><i class="fa fa-check"></i>Integer error</li>
+                                              <li><i class="fa fa-check"></i>Input validation</li>
+                                              <li><i class="fa fa-check"></i>Buffer overflow</li>
+                                              <li><i class="fa fa-check"></i>Software development life cycle</li>
+                                              <li><i class="fa fa-check"></i>Encapsulation</li>
+                                              <li><i class="fa fa-check"></i>Data hiding</li>
+                                              <li><i class="fa fa-check"></i>Exception handling</li>
+                                          </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                            <h4><a href="http://www.cis.syr.edu/~wedu/seed/software_security.html" target="_blank" rel="noopener noreferrer">Software security labs</a></h4>
+                                            <h4><code>Languages: C/bash</code></h4>
+                                            <p>Includes modules on:</p>
+                                            <ul>
+                                                <li><i class="fa fa-check"></i>Dirty COW attack</li>
+                                                <li><i class="fa fa-check"></i>Buffer overflow vulnerability</li>
+                                                <li><i class="fa fa-check"></i>Return-to-libc attack</li>
+                                                <li><i class="fa fa-check"></i>Environment variable and set-UID</li>
+                                                <li><i class="fa fa-check"></i>Set-UID program vulnerability</li>
+                                                <li><i class="fa fa-check"></i>Race condition vulnerability</li>
+                                                <li><i class="fa fa-check"></i>Format string vulnerability</li>
+                                                <li><i class="fa fa-check"></i>Shellshock vulnerability</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="defense" class="company-anual-reports tab-pane fade">
+                            <div class="row">
+                                <div class="annual-reports">
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                            <h4><a href="http://blogs.cae.tntech.edu/secknitkit/" target="_blank" rel="noopener noreferrer">SecKnitKit</a></h4>
+                                            <h4><code>Languages: bash</code></h4>
+                                            <p>Includes modules on:</p>
+                                            <ul>
+                                                <li><i class="fa fa-check"></i>VirtualBox setup and utilization</li>
+                                                <li><i class="fa fa-check"></i>Network security (TCP/IP security, network traffic analysis)</li>
+                                                <li><i class="fa fa-check"></i>Operating systems (access control, authentication)</li>
+                                                <li><i class="fa fa-check"></i>Database management (access permissions, integrity control, database views)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                          <h4><a href="http://cis1.towson.edu/~cssecinj/" target="_blank" rel="noopener noreferrer">Security Injections: Secure Coding</a></h4>
+                                          <p>Includes modules on:</p>
+                                          <ul>
+                                              <li><i class="fa fa-check"></i>Security trade-offs</li>
+                                              <li><i class="fa fa-check"></i>Beware of input buffer misbehavior</li>
+                                              <li><i class="fa fa-check"></i>Industrial control systems</li>
+                                              <li><i class="fa fa-check"></i>Mobile risk management</li>
+                                          </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                      <div class="annual-reports-content">
+                                        <h4><a href="http://www.cis.syr.edu/~wedu/seed/labs.html" target="_blank" rel="noopener noreferrer">SEED Labs</a></h4>
+                                        <h4><code>Languages: C/bash/SQL/JS</code></h4>
+                                        <p>Includes modules on:</p>
+                                        <ul>
+                                            <li><i class="fa fa-check"></i>Network security (firewall, VPN, IPsec)</li>
+                                            <li><i class="fa fa-check"></i>System security (Linux capability exploration, RBAC, encrypted file system)</li>
+                                            <li><i class="fa fa-check"></i>Cryptography (MD5 collision)</li>
+                                            <li><i class="fa fa-check"></i>Mobile security (Android, Ubuntu)</li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                      <div class="annual-reports-content">
+                                        <h4><a href="https://edurange.org/scenarios.html" target="_blank" rel="noopener noreferrer">EDUrange</a></h4>
+                                        <h4><code>Languages: C/bash/python</code></h4>
+                                        <p>Includes modules on:</p>
+                                        <ul>
+                                            <li><i class="fa fa-check"></i>SSH, Linux</li>
+                                            <li><i class="fa fa-check"></i>Networking</li>
+                                            <li><i class="fa fa-check"></i>Malware analysis</li>
+                                            <li><i class="fa fa-check"></i>Network tracing/analysis</li>
+                                        </ul>
+                                      </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="offense" class="company-anual-reports tab-pane fade">
+                            <div class="row">
+                                <div class="annual-reports">
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                          <h4><a href="http://cis1.towson.edu/~cssecinj/" target="_blank" rel="noopener noreferrer">Security Injections: Secure Coding</a></h4>
+                                          <h4><code>Languages: PHP/Ruby on Rails/SQL</code></h4>
+                                          <p>Includes modules on:</p>
+                                          <ul>
+                                              <li><i class="fa fa-check"></i>Web development (XSS)</li>
+                                              <li><i class="fa fa-check"></i>Databases (SQL injection)</li>
+                                              <li><i class="fa fa-check"></i>Networking (Wi-Fi, MITM)</li>
+                                              <li><i class="fa fa-check"></i>Software development life cycle</li>
+                                              <li><i class="fa fa-check"></i>Encapsulation</li>
+                                              <li><i class="fa fa-check"></i>Data hiding</li>
+                                              <li><i class="fa fa-check"></i>Exception handling</li>
+                                          </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                            <h4><a href="http://www.cis.syr.edu/~wedu/seed/labs.html" target="_blank" rel="noopener noreferrer">SEED Labs</a></h4>
+                                            <h4><code>Languages: C/bash/SQL/JS</code></h4>
+                                            <p>Includes modules on:</p>
+                                            <ul>
+                                                <li><i class="fa fa-check"></i>Network security (TCP/IP, heartbleed, local/remote DNS, packet sniffing/spoofing)</li>
+                                                <li><i class="fa fa-check"></i>Web security (XSS, CSRF, web tracking, SQL injection)</li>
+                                                <li><i class="fa fa-check"></i>System security (meltdown, spectre)</li>
+                                                <li><i class="fa fa-check"></i>Cryptography (MD5 collision)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                            <h4><a href="http://blogs.cae.tntech.edu/secknitkit/" target="_blank" rel="noopener noreferrer">SecKnitKit</a></h4>
+                                            <h4><code>Languages: bash/C++</code></h4>
+                                            <p>Includes modules on:</p>
+                                            <ul>
+                                                <li><i class="fa fa-check"></i>VirtualBox setup and utilization</li>
+                                                <li><i class="fa fa-check"></i>Network security (ARP poisoning, IP spoofing MITM, WEP cracking)</li>
+                                                <li><i class="fa fa-check"></i>Operating systems (race conditions, covert channels, heartbleed)</li>
+                                                <li><i class="fa fa-check"></i>Software engineering (buffer overflow, improper initialization, improper operand)</li>
+                                                <li><i class="fa fa-check"></i>Database management (SQL injections)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="interdisciplinary" class="company-anual-reports tab-pane fade">
+                            <div class="row">
+                                <div class="annual-reports">
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                          <h4><a href="http://cis1.towson.edu/~cssecinj/interdisciplinary-matrix/" target="_blank" rel="noopener noreferrer">Security Injections: Interdisciplinary</a></h4>
+                                          <p>Includes modules on:</p>
+                                          <ul>
+                                              <li><i class="fa fa-check"></i>Healthcare management (HIPAA, risk management, privacy)</li>
+                                              <li><i class="fa fa-check"></i>Criminal justice (privacy, forensics, cybercrime)</li>
+                                              <li><i class="fa fa-check"></i>Business (personal/business/government use security, mitigatin risk)</li>
+                                          </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+                                        <div class="annual-reports-content">
+                                            <h4><a href="http://cis1.towson.edu/~cssecinj/computer-literacy-matrix/" target="_blank" rel="noopener noreferrer">Security Injections: Computer Literacy</a></h4>
+                                            <p>Includes modules on:</p>
+                                            <ul>
+                                                <li><i class="fa fa-check"></i>Passwords</li>
+                                                <li><i class="fa fa-check"></i>Phishing</li>
+                                                <li><i class="fa fa-check"></i>Cryptography</li>
+                                                <li><i class="fa fa-check"></i>Social networking security</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--ABOUT DETAILS AREA END-->
+
+    <!--UNIVERSITY AREA-->
+    <section class="clients-area section-padding wow fadeIn">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <center><h4>Academic institutions contributed to the project</h4></center>
+                    <div class="client-list">
+                        <div class="single-client">
+                            <img src="img/schools/michigan-tech.png" alt="Michigan Tech">
+                        </div>
+                        <div class="single-client">
+                            <img src="img/schools/tennessee-tech.jpg" alt="Tennessee Tech">
+                        </div>
+                        <div class="single-client">
+                            <img src="img/schools/evergreen-state.png" alt="Evergreen State">
+                        </div>
+                        <div class="single-client">
+                            <img src="img/schools/towson.png" alt="Towson University">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--UNIVERSITY AREA END-->
+
+    <!--FOOTER AREA-->
+    <div class="footer-area dark-bg">
+        <div class="footer-area-bg"></div>
+        <div class="footer-copyright-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
+                        <div class="footer-copyright wow fadeIn">
+                            <p>Licensed under CC BY 3.0. | Maintained by <a href="https://vford.me" target="_blank" rel="noopener noreferrer">Dr. Vitaly Ford</a></p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
+                        <div class="footer-social-bookmark text-right wow fadeIn">
+                            <ul class="social-bookmark">
+                                <li><a href="https://www.facebook.com/groups/TeachingCyber/"><i class="fa fa-facebook"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+    <!--FOOTER AREA END-->
 
-    <div class="social-icons">
-      <ul class="list-unstyled text-center mb-0">
-        <li class="list-unstyled-item">
-          <a href="https://www.facebook.com/groups/TeachingCyber">
-            <i class="fa fa-facebook"></i>
-          </a>
-        </li>
-      </ul>
-    </div>
+    <!--====== SCRIPTS JS ======-->
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/vendor/bootstrap.min.js"></script>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!--====== PLUGINS JS ======-->
+    <script src="js/vendor/jquery.easing.1.3.js"></script>
+    <script src="js/vendor/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/vendor/jquery.appear.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/stellar.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/stellarnav.min.js"></script>
+    <script src="js/contact-form.js"></script>
+    <script src="js/jquery.sticky.js"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="vendor/vide/jquery.vide.min.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="js/coming-soon.min.js"></script>
-
-  </body>
+    <!--===== ACTIVE JS=====-->
+    <script src="js/main.js"></script>
+</body>
 
 </html>

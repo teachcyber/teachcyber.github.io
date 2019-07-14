@@ -1,3 +1,13 @@
+- name: "Curriculum"
+  links:
+    - name: "CLARK"
+      description: "cybersecurity curriculum for colleges and universities with assignments"
+      url: "https://clark.center/"
+
+    - name: "Sample High School Curriculum"
+      description: "ethics, security principles, cryptography, malware, physical and web security"
+      url: "https://github.com/DerekBabb/CyberSecurity"
+
 - name: "News to read"
   links:
     - name: "NetSec on Reddit"

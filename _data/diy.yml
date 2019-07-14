@@ -16,6 +16,10 @@
       description: "web-platform for teaching cryptocurrency, bug bounty, social engineering, password management, and rewarding students with real items on the market"
       url: "https://github.com/vitalyford/gencybercoin"
 
+    - name: "CTF Unplugged"
+      description: "a CTF that does not require any technical preparation, <u><a href='https://vford.me/contact' target='_blank'>contact</a></u> for answers"
+      url: "https://vford.me/ctf-unplugged/CTF_Unplugged_May_2019.docx"
+
 - name: "News to read"
   links:
     - name: "NetSec on Reddit"

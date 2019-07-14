@@ -1,4 +1,4 @@
-- name: "Curriculum"
+- name: "Curriculum and Careers"
   links:
     - name: "CLARK"
       description: "cybersecurity curriculum for colleges and universities with assignments"
@@ -7,6 +7,10 @@
     - name: "Sample High School Curriculum"
       description: "ethics, security principles, cryptography, malware, physical and web security"
       url: "https://github.com/DerekBabb/CyberSecurity"
+
+    - name: "CyberSeek"
+      description: "interactive cybersecurity job market map, career pathways"
+      url: "http://cyberseek.org/"
 
 - name: "News to read"
   links:
@@ -24,9 +28,13 @@
 
 - name: "Free learning"
   links:
-    - name: "Certificate Preparation"
+    - name: "Certificate Preparation Videos"
       description: "Professor Messer videos for CompTIA Security+, A+, Network+ preparation"
       url: "https://www.youtube.com/user/professormesser"
+
+    - name: "SecurityTube"
+      description: "security teaching videos on WiFi, exploits, assembly, linux, buffer overflow, "
+      url: "http://www.securitytube.net/"
 
     - name: "Awesome Cyber Skills"
       description: "100+ hacking environments to train cyber skills legally"

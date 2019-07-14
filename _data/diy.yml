@@ -20,6 +20,20 @@
       description: "a CTF that does not require any technical preparation, <u><a href='https://vford.me/contact' target='_blank'>contact</a></u> for answers"
       url: "https://vford.me/ctf-unplugged/CTF_Unplugged_May_2019.docx"
 
+- name: "Individual Challenges for Cybersecurity Courses"
+  links:
+    - name: "Hack Lock Challenge by Vitaly Ford"
+      description: "hack the lock on the website"
+      url: "https://vford.me/challenges/hack-lock/"
+
+    - name: "Decode Steganography by Vitaly Ford"
+      description: "find what message is hidden"
+      url: "https://vford.me/challenges/catch-me/if-you-can.pdf"
+
+    - name: "Mysterious Song by Vitaly Ford"
+      description: "reverse engineer the given code and figure out the name of the song"
+      url: "https://vford.me/challenges/mysterious-song/"
+
 - name: "News to read"
   links:
     - name: "NetSec on Reddit"

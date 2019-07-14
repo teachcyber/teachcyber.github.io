@@ -1,3 +1,17 @@
+- name: "Important"
+  links:
+    - name: "HaveIBeenPwned"
+      description: "check if you have already been hacked (passwords and emails) for real"
+      url: "https://haveibeenpwned.com/"
+
+    - name: "Password Manager"
+      description: "use a password manager, it is time (there are many out there, this one is just an example)"
+      url: "https://www.lastpass.com/"
+
+    - name: "YubiKey"
+      description: "the best 2-factor authentication is a physical security key (there are a few out there, this one is just an example)"
+      url: "https://www.yubico.com/product/security-key-by-yubico/"
+
 - name: "Videos"
   links:
     - name: "Pentesting a Power Grid"

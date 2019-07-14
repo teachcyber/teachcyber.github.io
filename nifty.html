@@ -9,9 +9,6 @@ permalink: "/nifty/"
         <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
             <div class="area-title wow fadeIn">
 
-                <p class="lead">Check if you have already been hacked (passwords and emails) at <u><a href="https://haveibeenpwned.com/" target="_blank" rel="noopener noreferrer">haveibeenpwned</a></u></p>
-                <hr>
-
                 {% for item in site.data.nifty %}
                     <a href="#{{ item.name | replace: " ", "_" }}" class="anchor"><h1>{{ item.name }}</h1></a>
                     {% for link in item.links %}

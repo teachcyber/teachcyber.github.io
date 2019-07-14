@@ -12,6 +12,10 @@
       description: "interactive cybersecurity job market map, career pathways"
       url: "http://cyberseek.org/"
 
+    - name: "GenCyberCoin"
+      description: "web-platform for teaching cryptocurrency, bug bounty, social engineering, password management, and rewarding students with real items on the market"
+      url: "https://github.com/vitalyford/gencybercoin"
+
 - name: "News to read"
   links:
     - name: "NetSec on Reddit"

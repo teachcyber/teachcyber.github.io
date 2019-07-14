@@ -26,6 +26,12 @@
       description: "mostly computer science, physics, engineering and geek news"
       url: "https://news.ycombinator.com/"
 
+- name: "Cybersecurity Board Games"
+  links:
+    - name: "Tabletop Games"
+      description: "a list of security-focused board games"
+      url: "https://adam.shostack.org/games.html"
+
 - name: "Free learning"
   links:
     - name: "Certificate Preparation Videos"

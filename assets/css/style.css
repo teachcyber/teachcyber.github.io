@@ -1832,7 +1832,7 @@ ul#nav li ul a,
 }
 
 .footer-social-bookmark .social-bookmark li a {
-    background: rgba(255, 255, 255, 0.1) none repeat scroll 0 0;
+    background: rgba(0, 50, 255, 0.5) none repeat scroll 0 0;
     border-radius: 50%;
     color: #fff;
     display: inline-block;

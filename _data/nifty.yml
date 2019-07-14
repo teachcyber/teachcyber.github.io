@@ -1,0 +1,97 @@
+- name: "Videos"
+  links:
+    - name: "Pentesting a Power Grid"
+      description: "16-min video on breaking into a power grid"
+      url: "https://www.youtube.com/watch?v=pL9q2lOZ1Fw&t=1s"
+
+    - name: "Danger Drone"
+      description: "compromising a wireless mouse and keyboard on a drone"
+      url: "https://www.youtube.com/watch?v=iG7hUE2BZZo&t=415s"
+
+    - name: "Protect Ya Passwords"
+      description: "a rapper's view on passwords in a 3-min video"
+      url: "https://www.youtube.com/watch?v=v59CX2DiX0Y"
+
+    - name: "Live Social Engineering"
+      description: "a hack of your phone account through your provider"
+      url: "https://www.youtube.com/watch?v=lc7scxvKQOo&t=3"
+
+    - name: "What is Your Password"
+      description: "Jimmy Kimmel's show: asking for passwords on the street"
+      url: "https://www.youtube.com/watch?v=opRMrEfAIiI"
+
+    - name: "Dolphin Attack"
+      description: "initiating inaudible voice commands to an iPhone"
+      url: "https://www.youtube.com/watch?v=21HjF4A3WE4&feature=youtu.be"
+
+    - name: "Rubber Ducky to Bypass Lockscreen"
+      description: "a story about a rubber ducky"
+      url: "https://www.youtube.com/watch?v=CGKKL1fM0mc"
+
+    - name: "Remotely Stealing a Tesla"
+      description: "an attack against a passive keyless entry"
+      url: "https://www.esat.kuleuven.be/cosic/fast-furious-and-insecure-passive-keyless-entry-and-start-in-modern-supercars/"
+
+- name: "Tools"
+  links:
+    - name: "Wardriving"
+      description: "captured WiFi networks around the globe"
+      url: "https://wigle.net/"
+
+    - name: "Modlishka"
+      description: "the most dangerous phishing tool that acts as a smart reverse proxy"
+      url: "https://github.com/drk1wi/Modlishka"
+
+- name: "Articles"
+  links:
+    - name: "Car Hacking at DefCon"
+      description: "a car hacking village"
+      url: "https://hackaday.com/2018/08/11/car-hacking-at-def-con-26/"
+
+    - name: "SIM Hijackers"
+      description: "sophisticated attacks using just phone numbers via SIM hijacking"
+      url: "https://www.vice.com/en_us/article/vbqax3/hackers-sim-swapping-steal-phone-numbers-instagram-bitcoin"
+
+    - name: "Creative Phishing"
+      description: "a write-up about a very creative phishing attack on Steam and others"
+      url: "https://stuffwithaurum.blog/2018/09/30/an-innovative-phishing-style/"
+
+    - name: "Vigilante Botnet"
+      description: "a botnet that removes another cryptocurrency malware"
+      url: "https://www.ccn.com/vigilante-botnet-infects-computers-to-remove-cryptocurrency-malware/"
+
+    - name: "Naked Security"
+      description: "attackers breached a bank through a LinkedIn job ad and Skype call"
+      url: "https://nakedsecurity.sophos.com/2019/01/21/attackers-used-a-linkedin-job-ad-and-skype-call-to-breach-banks-defences/"
+
+    - name: "Spying with Raspberry Pi"
+      description: "a Raspberry Pi was found in the network closet"
+      url: "https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html"
+
+    - name: "Twitter was Broken"
+      description: "how Twitter was broken because of SMS"
+      url: "https://theantisocialengineer.com/2018/12/24/twitter-is-broken/"
+
+    - name: "Cybersecurity Horror Stories"
+      description: "real stories from red and blue teams"
+      url: "https://www.reddit.com/r/cybersecurity/comments/ac6sk6/i_am_looking_for_your_cybersecurity_horror_stories/"
+
+    - name: "One Laptop Leads to a Full Pwn"
+      description: "a laptop used in a coffee shop led to a full network attack"
+      url: "https://www.zdnet.com/article/how-one-hacked-laptop-led-to-an-entire-network-being-compromised/"
+
+    - name: "Drone Hacks"
+      description: "a list of vulnerable drones and attack tools"
+      url: "https://medium.com/@swalters/how-can-drones-be-hacked-the-updated-list-of-vulnerable-drones-attack-tools-dd2e006d6809"
+
+    - name: "Voicemail Attack on WhatsApp"
+      description: "attackers used voicemail hack to steal WhatsApp accounts"
+      url: "https://nakedsecurity.sophos.com/2018/10/08/attackers-use-voicemail-hack-to-steal-whatsapp-accounts/"
+
+    - name: "Security Keys"
+      description: "a story about how Google used security keys to defeat phishing"
+      url: "https://krebsonsecurity.com/2018/07/google-security-keys-neutralized-employee-phishing/"
+
+    - name: "Reddit Hack"
+      description: "SMS 2FA verification codes were intercepted, leading to the Reddit hack"
+      url: "https://www.wired.com/story/reddit-hacked-thanks-to-woefully-insecure-two-factor-setup/"

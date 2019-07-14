@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Learn by Doing"
+---
+
+<div class="container" style="padding-top: 20px;">
+    <div class="row">
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
+            <div class="area-title wow fadeIn">
+
+                {% for item in site.data.diy %}
+                    <a href="#{{ item.name | replace: " ", "_" }}" class="anchor"><h1>{{ item.name }}</h1></a>
+                    {% for link in item.links %}
+                        <p class="lead"><u><a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a></u> - {{ link.description }}</p>
+                    {% endfor %}
+                    <hr>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+</div>

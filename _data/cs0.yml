@@ -1,0 +1,9 @@
+- name: "Security Injections: Secure Coding"
+  url: "http://cis1.towson.edu/~cssecinj/"
+  languages: "C++/Java/Python"
+  modules:
+    - name: "Integer error"
+    - name: "Input validation"
+    - name: "Buffer overflow"
+    - name: "Software development life cycle"
+    - name: "Data hiding"

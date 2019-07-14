@@ -1,0 +1,153 @@
+- name: "News to read"
+  links:
+    - name: "NetSec on Reddit"
+      description: "security vulnerablities, walk-throughs, events, tools, write-ups"
+      url: "https://www.reddit.com/r/netsec/"
+
+    - name: "Krebs on Security"
+      description: "security investigations, national/global level"
+      url: "https://krebsonsecurity.com/"
+
+    - name: "Hacker News"
+      description: "mostly computer science, physics, engineering and geek news"
+      url: "https://news.ycombinator.com/"
+
+- name: "Free learning"
+  links:
+    - name: "Certificate Preparation"
+      description: "Professor Messer videos for CompTIA Security+, A+, Network+ preparation"
+      url: "https://www.youtube.com/user/professormesser"
+
+    - name: "Awesome Cyber Skills"
+      description: "100+ hacking environments to train cyber skills legally"
+      url: "https://github.com/joe-shenouda/awesome-cyber-skills"
+
+    - name: "Cybrary"
+      description: "beginner, intermediate, and advanced security training"
+      url: "https://www.cybrary.it/"
+
+    - name: "E-books"
+      description: "security, programming, software development"
+      url: "https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#reverse-engineering"
+
+    - name: "Learn Metasploit"
+      description: "free ethical hacking course using metasploit"
+      url: "https://www.offensive-security.com/metasploit-unleashed/"
+
+    - name: "Mindmaps"
+      description: "mindmaps for hacking, forensics, cryptography, web, etc. challenges"
+      url: "https://www.amanhardikar.com/mindmaps.html"
+
+    - name: "Hands-on Security Know-How"
+      description: "null-byte's practical security-related projects that can be used for club presentations and self-study"
+      url: "https://null-byte.wonderhowto.com/"
+
+    - name: "Security Training for Developers"
+      description: "interactive training that walks your through everything"
+      url: "https://www.hacksplaining.com/"
+
+    - name: "WiCyS Resources"
+      description: "Women in Cybersecurity resource portal: readings, online learning, students, certificates, etc."
+      url: "https://www.wicys.org/resources"
+
+- name: "Capture The Flag (CTF) and practice"
+  links:
+    - name: "CTF Time"
+      description: "a calendar and info on almost all CTFs that are out there"
+      url: "https://ctftime.org/"
+
+    - name: "CTF Write-ups"
+      description: "a repository of a lot of CTF write-ups and walk-throughs, excellent place to start learning how to do CTFs"
+      url: "https://github.com/ctfs"
+
+    - name: "VulnHub"
+      description: "CTF-style vulnerable virtual machines"
+      url: "https://www.vulnhub.com/"
+
+    - name: "CyberChef"
+      description: "encodes/decodes/encrypts/descrypts all kids of stuff as a recipe"
+      url: "https://gchq.github.io/CyberChef/"
+
+- name: "Vulnerable Apps / Systems"
+  links:
+    - name: "Pentesting Practice Labs"
+      description: "a mindmap of all kinds of vulnerable apps and systems"
+      url: "https://www.amanhardikar.com/mindmaps/Practice.html"
+
+    - name: "SecGen"
+      description: "security scenario generator that creates randomly vulnerable virtual machines"
+      url: "https://github.com/cliffe/SecGen/"
+
+- name: "GitHub Awesome Repositories"
+  links:
+    - name: "Awesome Hacking"
+      description: "a collection of resources for pentesters and security researchers"
+      url: "https://github.com/Hack-with-Github/Awesome-Hacking/"
+
+    - name: "Awesome Bug Bounty"
+      description: "a list of write-ups on bug bounty hunting"
+      url: "https://github.com/djadmin/awesome-bug-bounty"
+
+    - name: "Awesome Sysadmin"
+      description: "awesome open source system administration resources"
+      url: "https://github.com/kahun/awesome-sysadmin"
+
+    - name: "Awesome IoT Hacks"
+      description: "a collection of articles on IoT getting compromised by researchers"
+      url: "https://github.com/nebgnahz/awesome-iot-hacks"
+
+    - name: "Awesome Reversing"
+      description: "a list of reverse engineering resources"
+      url: "https://github.com/tylerha97/awesome-reversing"
+
+    - name: "Awesome Exploit Development"
+      description: "tutorials and vulnerable apps for exploit development"
+      url: "https://github.com/FabioBaroni/awesome-exploit-development"
+
+    - name: "Awesome Social Engineering"
+      description: "social engineering resources: books, courses, tools, articles, CTF"
+      url: "https://github.com/v2-dev/awesome-social-engineering"
+
+- name: "Cheat Sheets"
+  links:
+    - name: "Pentestmonkey"
+      description: "reverse shells, SSH, different database injections"
+      url: "http://pentestmonkey.net/category/cheat-sheet"
+
+    - name: "High On Coffee"
+      description: "pentesting, LFI, vi, systemd, reverse shells, nbtscan, nmap, linux, etc."
+      url: "https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"
+    
+- name: "Penetration Testing"
+  links:
+    - name: "SecLists"
+      description: "lists of usernames, passwords, URLs, fuzzing payloads, web shells, etc."
+      url: "https://github.com/danielmiessler/SecLists"
+
+    - name: "WiFi Arsenal"
+      description: "a list of tools, techniques, articles to pentest wireless networks"
+      url: "https://github.com/0x90/wifi-arsenal"
+
+    - name: "Awesome Pentest"
+      description: "books, tools, conferences, CTFs, exploitation, databases, etc."
+      url: "https://github.com/enaqx/awesome-pentest"
+
+    - name: "Password Attacks"
+      description: "cracking 12+ character passwords"
+      url: "https://www.netmux.com/blog/cracking-12-character-above-passwords"
+
+    - name: "Red Teamer's Guide to Pivoting"
+      description: "traversing logical network boundaries"
+      url: "https://artkond.com/2017/03/23/pivoting-guide/"
+
+    - name: "Double Pivoting"
+      description: "explore hidden networks"
+      url: "https://pentest.blog/explore-hidden-networks-with-double-pivoting/"
+
+    - name: "Empire + Death Star"
+      description: "getting Domain Admin with Empire and Death Star"
+      url: "https://byt3bl33d3r.github.io/automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html"
+
+    - name: "Pentesting Report"
+      description: "a sample of a pseudo-real penetration testing report"
+      url: "https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report"

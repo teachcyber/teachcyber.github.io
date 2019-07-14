@@ -1,0 +1,28 @@
+- name: "Security Injections: Interdisciplinary"
+  url: "http://cis1.towson.edu/~cssecinj/"
+  languages: "No programming"
+  modules:
+    - name: "Healthcare management (HIPAA, risk management, privacy)"
+    - name: "Criminal justice (privacy, forensics, cybercrime)"
+    - name: "Business (personal/business/government use security, mitigatin risk)"
+
+- name: "Security Injections: Computer Literacy"
+  url: "http://cis1.towson.edu/~cssecinj/"
+  languages: "No programming"
+  modules:
+    - name: "Passwords"
+    - name: "Phishing"
+    - name: "Cryptography"
+    - name: "Social networking security"
+
+- name: "High School Cybersecurity Curriculum Example"
+  url: "https://github.com/DerekBabb/CyberSecurity"
+  languages: "Python/HTML/CSS/PHP/MySQL"
+  modules:
+    - name: "Ethics and Society"
+    - name: "Security Principles"
+    - name: "Classic Cryptography"
+    - name: "Modern Cryptography"
+    - name: "Malicious Software"
+    - name: "Physical Security"
+    - name: "Web Security"

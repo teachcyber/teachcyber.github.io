@@ -1,0 +1,49 @@
+- name: "SecKnitKit"
+  url: "http://blogs.cae.tntech.edu/secknitkit/"
+  languages: "Bash"
+  modules:
+    - name: "VirtualBox setup and utilization"
+    - name: "Network security (TCP/IP, traffic analysis)"
+    - name: "Operating systems (access control, authentication)"
+    - name: "Database (permissions, integrity, database views)"
+
+- name: "EDURange"
+  url: "https://edurange.org/scenarios.html"
+  languages: "C/Bash/Python"
+  modules:
+    - name: "SSH, Linux"
+    - name: "Networking"
+    - name: "Malware analysis"
+    - name: "Network tracing/analysis"
+
+- name: "Security Injections: Secure Coding"
+  url: "http://cis1.towson.edu/~cssecinj/"
+  languages: "No programming"
+  modules:
+    - name: "Security trade-offs"
+    - name: "Beware of input buffer misbehavior"
+    - name: "Industrial control systems"
+    - name: "Mobile risk management"
+
+- name: "SEED Labs"
+  url: "https://seedsecuritylabs.org/labs.html"
+  languages: "C/Bash/SQL/JS"
+  modules:
+    - name: "Network security (firewall, VPN, IPsec)"
+    - name: "System security (Linux capability exploration, RBAC, encrypted file system)"
+    - name: "Cryptography (MD5 collision)"
+    - name: "Mobile security (Android, Ubuntu)"
+
+- name: "NICE Challenge"
+  url: "https://nice-challenge.com/"
+  languages: "Hands-on labs"
+  modules:
+    - name: "Customer service and technical support"
+    - name: "Cybersecurity defense analysis"
+    - name: "Cybersecurity defense infrastructure support"
+    - name: "Data administration"
+    - name: "Digital forensics"
+    - name: "Incident response"
+    - name: "Network services"
+    - name: "System administration"
+    - name: "System analysis"

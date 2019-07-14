@@ -273,7 +273,7 @@ input:-webkit-autofill:focus {
 
 .area-title h2::before,
 .area-title h2::after {
-    background: rgba(0, 0, 0, 0) url("img/title-border.png") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../img/title-border.png") repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
@@ -1710,7 +1710,7 @@ ul#nav li ul a,
 }
 
 .footer-area::after {
-    background: rgba(0, 0, 0, 0) url("img/footer-map-bg.png") no-repeat scroll center center / 90% auto;
+    background: rgba(0, 0, 0, 0) url("../img/footer-map-bg.png") no-repeat scroll center center / 90% auto;
     content: "";
     height: 100%;
     left: 0;
@@ -1722,7 +1722,7 @@ ul#nav li ul a,
 }
 
 .footer-border {
-    background: rgba(0, 0, 0, 0) url("img/footer-border.png") repeat-x scroll center center;
+    background: rgba(0, 0, 0, 0) url("../img/footer-border.png") repeat-x scroll center center;
     height: 1px;
     margin-top: 50px;
 }

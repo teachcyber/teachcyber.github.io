@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<!--SAMPLES AREA-->
+<div class="container" style="padding-top: 20px;">
+    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+        <div class="row">
+            <div class="annual-reports-content">
+
+                {% for item in site.data[page.data] %}
+                <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12" style="padding-bottom: 20px;">
+                    <h4><u><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a></u></h4>
+                    <h4><code>{{ item.languages }}</code></h4>
+                    <p>Includes modules on:</p>
+                    <ul>
+                    {% for module in item.modules %}
+                        <li><i class="fa fa-check"></i>{{ module.name }}</li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+</div>
+<!--END SAMPLES AREA-->

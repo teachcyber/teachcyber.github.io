@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container" style="padding-top: 20px;">
+    <div class="row">
+        <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
+            <div class="area-title wow fadeIn">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                {% for item in site.data[page.data] %}
+                    <div class="panel panel-info">
+                        <div class="panel-heading" role="tab" id="heading{{ forloop.index}}">
+                            <h4 class="panel-title">
+                                <a {% if forloop.index != 1 %}class="collapsed"{% endif %} data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index}}" aria-expanded="{% if forloop.index == 1 %}true{% else %}false{% endif %}" aria-controls="collapse{{ forloop.index}}">
+                                    {{ item.name }}
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapse{{ forloop.index}}" class="panel-collapse collapse{% if forloop.index == 1 %} in{% endif %}" role="tabpanel" aria-labelledby="heading{{ forloop.index}}">
+                            <div class="panel-body">
+                            {% for link in item.links %}
+                                <p class="lead"><u class="boxed-link"><a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a></u><br>{{ link.description }}</p>
+                            {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -4,9 +4,17 @@
       description: "a course to promote understanding cybersecurity, privacy, and intellectual property issues from technical and social perspectives"
       url: "http://research.lemoyne.edu/Cybersecurity-for-Future-Presidents"
 
+    - name: "Digital Forensics Courses and Hands-on Labs"
+      description: "incident response, pentesting, malware and software analysis, IoT labs, etc."
+      url: "http://cyberforensic.net/"
+
     - name: "INCUBATE"
       description: "INjecting and Assessing Cybersecurity edUcation with little internal suBject mATter Expertise"
       url: "http://research.lemoyne.edu/incubate#modules"
+
+    - name: "GENI Security Labs"
+      description: "search 'security' or find at the bottom; labs include: MITM, WiFi sniffing, DoS, IDS, covert storage channel communication, correlation on SDN, certificate authority"
+      url: "http://www.cs.unc.edu/Research/geni/geniExercises/"
 
     - name: "CLARK"
       description: "cybersecurity curriculum for colleges and universities with assignments"

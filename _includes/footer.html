@@ -39,3 +39,10 @@
 
 <!--===== ACTIVE JS=====-->
 <script src="/assets/js/main.js"></script>
+
+<script>
+$(".boxed-link").click(function() {
+  window.open($(this).find("a").attr("href"), '_blank');
+  return false;
+});
+</script>

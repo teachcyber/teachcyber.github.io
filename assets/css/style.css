@@ -39,6 +39,22 @@ Version: 1.0
    1. BASE CSS
 ----------------------*/
 
+.panel-title > a:before {
+    float: right !important;
+    font-family: FontAwesome;
+    content:"\f068";
+    padding-right: 5px;
+}
+.panel-title > a.collapsed:before {
+    float: right !important;
+    content:"\f067";
+}
+.panel-title > a:hover,
+.panel-title > a:active,
+.panel-title > a:focus  {
+    text-decoration:none;
+}
+
 .single-client {
     text-align: center;
 }
@@ -1422,7 +1438,7 @@ ul#nav li ul a,
 
 .panel-heading,
 .panel-body {
-    padding-left: 0;
+    padding-left: 20;
 }
 
 /* -----------------------------

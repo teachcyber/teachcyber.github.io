@@ -46,6 +46,10 @@
       description: "an attack against a passive keyless entry"
       url: "https://www.esat.kuleuven.be/cosic/fast-furious-and-insecure-passive-keyless-entry-and-start-in-modern-supercars/"
 
+    - name: "DARPA Cyber Grand Challenge"
+      description: "AI supercomputers are hacking each other and patching unknown bugs on the fly"
+      url: "https://www.youtube.com/watch?v=v5ghK6yUJv4"
+
 - name: "Tools"
   links:
     - name: "Wardriving"

@@ -6,15 +6,15 @@
             <div class="navbar-header">
                 <a href="/" class="navbar-brand"><img src="/assets/img/logo.png" alt="Teach Cyber"></a>
             </div>
-            <div class="search-and-language-bar pull-right">
+            {% comment %} <div class="search-and-language-bar pull-right" style="padding-top: 1px;">
                 <ul>
                     <li class="search-box"><i class="fa fa-search" onclick="location.href='/search/';"></i></li>
                 </ul>
-                {% comment %} <form action="/search/" class="search-form" method="get">
+                <form action="/search/" class="search-form" method="get">
                     <input type="search" id="search-query" name="q">
                     <button type="submit" value="search"><i class="fa fa-search"></i></button>
-                </form> {% endcomment %}
-            </div>
+                </form>
+            </div> {% endcomment %}
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav navbar-nav">
                     <li><a href="/diy/">DIY</a></li>
@@ -25,6 +25,7 @@
                     <li><a href="/defense/">Defense</a></li>
                     <li><a href="/offense/">Offense</a></li>
                     <li><a href="/interdisciplinary/">Interdisciplinary</a></li>
+                    <li><a href="/search/"><i class="fa fa-search"></i></a></li>
                 </ul>
             </div>
         </div>

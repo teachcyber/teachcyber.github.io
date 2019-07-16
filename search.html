@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ask and You Will Find"
+title: "Ask and You Shall Find"
 permalink: /search/
 tipue_search_active: true
 exclude_from_search: true
@@ -12,8 +12,19 @@ exclude_from_search: true
         
             <div class="annual-reports-content" style="padding: 0px 10px">
                 <form action="{{ page.url | relative_url }}">
-                    <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-                    <div class="tipue_search_right" style="width: 90%;"><input type="text" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" style="width: 100%; max-width: 500px;" placeholder="Type and then press Enter" required></div>
+                    <div class="input-group input-group-lg">
+                        <input type="text" placeholder="Search for..." name="q" id="tipue_search_input" class="form-control" pattern=".{2,}" title="At least 2 characters" required>
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </span>
+                    </div>
+
+                    {% comment %} <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+                    <div class="tipue_search_right" style="width: 90%;">
+                        <input type="text" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" style="width: 100%; max-width: 500px;" placeholder="Type and then press Enter" required>
+                    </div> {% endcomment %}
                     <div style="clear: both;"></div>
                 </form>
 

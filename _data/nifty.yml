@@ -4,6 +4,10 @@
       description: "check if you have already been hacked (passwords and emails) for real"
       url: "https://haveibeenpwned.com/"
 
+    - name: "True People Search"
+      description: "search for public records of people, anyone you know, including yourself"
+      url: "https://www.truepeoplesearch.com"
+
     - name: "Password Manager"
       description: "use a password manager, it is time (there are many out there, this one is just an example)"
       url: "https://www.lastpass.com/"

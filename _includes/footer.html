@@ -22,10 +22,6 @@
 </div>
 <!--FOOTER AREA END-->
 
-<!--====== SCRIPTS JS ======-->
-<script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="/assets/js/vendor/bootstrap.min.js"></script>
-
 <!--====== PLUGINS JS ======-->
 <script src="/assets/js/vendor/jquery.easing.1.3.js"></script>
 <script src="/assets/js/vendor/jquery-migrate-1.2.1.min.js"></script>
@@ -46,3 +42,18 @@ $(".boxed-link").click(function() {
   return false;
 });
 </script>
+
+{% if page.tipue_search_active or layout.tipue_search_active %}
+<script>
+$(document).ready(function() {
+    $('#tipue_search_input').tipuesearch({
+        'show': 10,
+        'newWindow': true,
+        'showTags': true,
+        'highlightTerms': false,
+        'wholeWords': false,
+        'minimumLength': 2
+    });
+});
+</script>
+{% endif %}

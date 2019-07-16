@@ -6,15 +6,15 @@
             <div class="navbar-header">
                 <a href="/" class="navbar-brand"><img src="/assets/img/logo.png" alt="Teach Cyber"></a>
             </div>
-            <!--<div class="search-and-language-bar pull-right">
+            <div class="search-and-language-bar pull-right">
                 <ul>
-                    <li class="search-box"><i class="fa fa-search"></i></li>
+                    <li class="search-box"><i class="fa fa-search" onclick="location.href='/search/';"></i></li>
                 </ul>
-                <form action="#" class="search-form">
-                    <input type="search" name="search" id="search">
-                    <button type="submit"><i class="fa fa-search"></i></button>
-                </form>
-            </div>-->
+                {% comment %} <form action="/search/" class="search-form" method="get">
+                    <input type="search" id="search-query" name="q">
+                    <button type="submit" value="search"><i class="fa fa-search"></i></button>
+                </form> {% endcomment %}
+            </div>
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav navbar-nav">
                     <li><a href="/diy/">DIY</a></li>

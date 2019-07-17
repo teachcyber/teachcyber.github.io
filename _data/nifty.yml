@@ -66,6 +66,10 @@
 
 - name: "Articles"
   links:
+    - name: "Instagram $30K Bug Bounty hack"
+      description: "a researcher found a vulnerability on Instagram, earning $30K as a bug bounty"
+      url: "https://thezerohack.com/hack-any-instagram"
+
     - name: "Car Hacking at DefCon"
       description: "a car hacking village"
       url: "https://hackaday.com/2018/08/11/car-hacking-at-def-con-26/"

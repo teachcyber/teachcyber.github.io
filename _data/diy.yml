@@ -36,6 +36,32 @@
       description: "a CTF that does not require any technical preparation, <u><a href='https://vford.me/contact' target='_blank'>contact</a></u> for answers"
       url: "https://vford.me/ctf-unplugged/CTF_Unplugged_May_2019.docx"
 
+- name: "Cybersecurity Degree Programs and Scholarships"
+  links:
+    - name: "Cyber Degrees"
+      description: "an extensive search of schools with online, associates, bachelors, masters, PhD, and certificate programs in security based on ranking and location"
+      url: "https://www.cyberdegrees.org/"
+
+    - name: "Cybersecurity Education"
+      description: "find the closest to you degree programs including online, associates, bachelors, and masters in security-related fields"
+      url: "https://www.cybersecurityeducation.org/school-programs/"
+
+    - name: "Centers of Academic Excellence in Cyber Defense"
+      description: "colleges and universities that were designated to be CAE in cyber defense expertise"
+      url: "http://www.iad.gov/NIETP/reports/cae_designated_institutions.cfm"
+
+    - name: "Centers of Academic Excellence in Cyber Operations"
+      description: "colleges and universities that were designated to be CAE in cyber operations expertise"
+      url: "https://www.nsa.gov/resources/students-educators/centers-academic-excellence/cae-co-centers/"
+
+    - name: "CyberCorps: Scholarship for Service"
+      description: "provides 3-year scholarships for bachelors, masters, or PhD degrees, covering full tuition, conference attendance, and pays a generous stipend on top of that"
+      url: "https://www.sfs.opm.gov/ContactsPI.aspx"
+
+    - name: "DoD Cyber Scholarship Program (CySP)"
+      description: "provides tuition, books, and fees coverage for students to study cybersecurity"
+      url: "https://dodcio.defense.gov/Portals/0/Documents/Cyber/dodcyspfastfacts.pdf"
+
 - name: "Individual Challenges for Cybersecurity Courses"
   links:
     - name: "Hack Lock Challenge by Vitaly Ford"

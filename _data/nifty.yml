@@ -70,6 +70,10 @@
       description: "a researcher found a vulnerability on Instagram, earning $30K as a bug bounty"
       url: "https://thezerohack.com/hack-any-instagram"
 
+    - name: "Tricking Cylance's AI Antivirus"
+      description: "shows how simple it could be to bypass antivirus with AI and still run malware"
+      url: "https://www.vice.com/en_us/article/9kxp83/researchers-easily-trick-cylances-ai-based-antivirus-into-thinking-malware-is-goodware"
+
     - name: "Car Hacking at DefCon"
       description: "a car hacking village"
       url: "https://hackaday.com/2018/08/11/car-hacking-at-def-con-26/"

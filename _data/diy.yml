@@ -36,6 +36,10 @@
       description: "a CTF that does not require any technical preparation, <u><a href='https://vford.me/contact' target='_blank'>contact</a></u> for answers"
       url: "https://vford.me/ctf-unplugged/CTF_Unplugged_May_2019.docx"
 
+    - name: "CSEC 2017"
+      description: "curricular guidelines for post-secondary degree programs in cybersecurity - a cybersecurity framework with knowledge areas and industry perspectives"
+      url: "https://cybered.hosting.acm.org/wp/"
+
 - name: "Cybersecurity Degree Programs and Scholarships"
   links:
     - name: "Cyber Degrees"

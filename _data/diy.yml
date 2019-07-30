@@ -8,6 +8,10 @@
       description: "incident response, pentesting, malware and software analysis, IoT labs, etc."
       url: "http://cyberforensic.net/"
 
+    - name: "Network Penetration Testing for Beginners Course"
+      description: "15 hours of <u class='boxed-link'><a href='https://www.youtube.com/watch?v=3Kq1MIfTWCE' target='_blank'>video</a></u>, 10 week course, with notes and detailed demonstration of a full penetration test, from start to finish"
+      url: "https://github.com/hmaverickadams/Beginner-Network-Pentesting"
+
     - name: "INCUBATE"
       description: "INjecting and Assessing Cybersecurity edUcation with little internal suBject mATter Expertise"
       url: "http://research.lemoyne.edu/incubate#modules"

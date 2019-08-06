@@ -20,6 +20,10 @@
       description: "search 'security' or find at the bottom; labs include: MITM, WiFi sniffing, DoS, IDS, covert storage channel communication, correlation on SDN, certificate authority"
       url: "http://www.cs.unc.edu/Research/geni/geniExercises/"
 
+    - name: "Online Computer Science Courses Including Security"
+      description: "hundreds of computer science courses, including basic cybersecurity, proactive computer security, cybersecurity for business and enterprises; web, software, cloud, hardware, network, cyber-physical systems security"
+      url: "https://www.freecodecamp.org/news/670-free-online-programming-computer-science-courses-you-can-start-in-december-a90149ac6de4/"
+
     - name: "CLARK"
       description: "cybersecurity curriculum for colleges and universities with assignments"
       url: "https://clark.center/"

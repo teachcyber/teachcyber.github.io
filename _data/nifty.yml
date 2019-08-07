@@ -66,6 +66,10 @@
 
 - name: "Articles"
   links:
+    - name: "State Hackers Use IoT to Breach Networks"
+      description: "hackers break into IoT devices, commonly through default passwords, and compromise networks through them"
+      url: "https://arstechnica.com/information-technology/2019/08/microsoft-catches-russian-state-hackers-using-iot-devices-to-breach-networks/"
+
     - name: "Instagram $30K Bug Bounty hack"
       description: "a researcher found a vulnerability on Instagram, earning $30K as a bug bounty"
       url: "https://thezerohack.com/hack-any-instagram"

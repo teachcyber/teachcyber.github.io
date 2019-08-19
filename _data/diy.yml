@@ -13,7 +13,7 @@
       url: "https://github.com/hmaverickadams/Beginner-Network-Pentesting"
 
     - name: "INCUBATE"
-      description: "INjecting and Assessing Cybersecurity edUcation with little internal suBject mATter Expertise"
+      description: "INjecting and Assessing Cybersecurity edUcation with little internal suBject matter expertise"
       url: "http://research.lemoyne.edu/incubate#modules"
 
     - name: "GENI Security Labs"
@@ -35,6 +35,10 @@
     - name: "CyberSeek"
       description: "interactive cybersecurity job market map, career pathways"
       url: "http://cyberseek.org/"
+
+    - name: "SANS Cybersecurity Skills Roadmap"
+      description: "interactive training roadmap finding the right courses for cyber skill development"
+      url: "https://www.sans.org/cyber-security-skills-roadmap/"
 
     - name: "GenCyberCoin"
       description: "web-platform for teaching cryptocurrency, bug bounty, social engineering, password management, and rewarding students with real items on the market"
@@ -102,6 +106,10 @@
       description: "mostly computer science, physics, engineering and geek news"
       url: "https://news.ycombinator.com/"
 
+    - name: "Threatpost"
+      description: "independent security news site"
+      url: "https://threatpost.com/#"
+
 - name: "Cybersecurity Board Games"
   links:
     - name: "Tabletop Games"
@@ -118,6 +126,10 @@
       description: "security teaching videos on WiFi, exploits, assembly, linux, buffer overflow, "
       url: "http://www.securitytube.net/"
 
+    - name: "Open Security Training"
+      description: "63 days worth of open source class materials; 29 classes; 24 instructors (and still growing)"
+      url: "http://opensecuritytraining.info/Welcome.html"
+
     - name: "Awesome Cyber Skills"
       description: "100+ hacking environments to train cyber skills legally"
       url: "https://github.com/joe-shenouda/awesome-cyber-skills"
@@ -129,6 +141,10 @@
     - name: "E-books"
       description: "security, programming, software development"
       url: "https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#reverse-engineering"
+
+    - name: "Hacksplaining"
+      description: "interactive lessons explaining how different vulnerabilities work"
+      url: "https://www.hacksplaining.com/lessons"
 
     - name: "Learn Metasploit"
       description: "free ethical hacking course using metasploit"
@@ -163,6 +179,10 @@
     - name: "VulnHub"
       description: "CTF-style vulnerable virtual machines"
       url: "https://www.vulnhub.com/"
+
+    - name: "Hack The Box"
+      description: "Online platform with live vulnerable virtual machines and challenges"
+      url: "https://www.hackthebox.eu/"
 
     - name: "CyberChef"
       description: "encodes/decodes/encrypts/descrypts all kids of stuff as a recipe"
@@ -217,7 +237,11 @@
     - name: "High On Coffee"
       description: "pentesting, LFI, vi, systemd, reverse shells, nbtscan, nmap, linux, etc."
       url: "https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"
-    
+
+    - name: "ARM Assembly"
+      description: "32-bit ARM Assembly"
+      url: "https://azeria-labs.com/downloads/cheatsheetv1.3-1920x1080.png"
+
 - name: "Penetration Testing"
   links:
     - name: "SecLists"

@@ -47,3 +47,26 @@
     - name: "Network services"
     - name: "System administration"
     - name: "System analysis"
+
+- name: "Malware Unicorn's Reverse Engineering Workshops"
+  url: "https://malwareunicorn.org/#/workshops"
+  languages: "C/X86 Assembly"
+  modules:
+    - name: "Triage Analysis"
+    - name: "Static Analysis"
+    - name: "Dynamic Analysis"
+    - name: "Identifying Encryption and Decrytion Algorithms"
+    - name: "Writing a Decryptor"
+    - name: "Evasion Techniques"
+    - name: "Debugging Around Evasion"
+    - name: "Packing and Unpacking"
+
+- name: "Azeria Labs"
+  url: "https://azeria-labs.com/writing-arm-assembly-part-1/"
+  languages: "Hands-on labs"
+  modules:
+    - name: "ARM Assembly Basics"
+    - name: "Binary Exploitation"
+    - name: "ARM Lab (VM)"
+    - name: "Emulate Raspberry Pi with QEMU"
+    - name: "Debugging with GDB and GEF"

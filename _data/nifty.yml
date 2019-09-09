@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Iron Geek"
+      description: "Video archive of past security conference presentations"
+      url: "https://www.irongeek.com/i.php?page=security/hackingillustrated"
+
     - name: "Pentesting a Power Grid"
       description: "16-min video on breaking into a power grid"
       url: "https://www.youtube.com/watch?v=pL9q2lOZ1Fw&t=1s"
@@ -64,6 +68,10 @@
       description: "the most dangerous phishing tool that acts as a smart reverse proxy"
       url: "https://github.com/drk1wi/Modlishka"
 
+    - name: "MASSCAN"
+      description: "Mass IP port scanner - can scan entire Internet in under 6 minutes"
+      url: "https://github.com/robertdavidgraham/masscan"
+      
 - name: "Articles"
   links:
     - name: "State Hackers Use IoT to Breach Networks"

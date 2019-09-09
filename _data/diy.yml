@@ -76,6 +76,10 @@
 
 - name: "Individual Challenges for Cybersecurity Courses"
   links:
+    - name: "Malware Traffic Analysis"
+      description: "PCAP files for malware traffic analysis, exercises, and tutorials with wireshark"
+      url: "https://malware-traffic-analysis.net/"
+
     - name: "Hack Lock Challenge by Vitaly Ford"
       description: "hack the lock on the website"
       url: "https://vford.me/challenges/hack-lock/"

@@ -74,6 +74,10 @@
       
 - name: "Articles"
   links:
+    - name: "Phishing Users Walk-Through"
+      description: "evilginx is deployed on AWS to capture username & password and EditThisCookie is used to bypass 2FA"
+      url: "https://www.vdalabs.com/2019/10/01/phishing-users-using-evilginx-and-bypassing-2fa/?fbclid=IwAR1xYC8CovAkc-ff7Vj03rxji8aSrUBd05cETbfQOWGJqkKGZVP2EfQ_kO0"
+
     - name: "State Hackers Use IoT to Breach Networks"
       description: "hackers break into IoT devices, commonly through default passwords, and compromise networks through them"
       url: "https://arstechnica.com/information-technology/2019/08/microsoft-catches-russian-state-hackers-using-iot-devices-to-breach-networks/"

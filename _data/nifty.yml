@@ -74,9 +74,13 @@
       
 - name: "Articles"
   links:
+    - name: "Critical Infrastructure Intelligence Gathering"
+      description: "using tools to analyze and access cameras, printers, and Industrial Control Systems (ICS)/SCADA infrastructure terminals"
+      url: "https://www.icscybersecurityconference.com/intelligence-gathering-on-u-s-critical-infrastructure/"
+
     - name: "Phishing Users Walk-Through"
       description: "evilginx is deployed on AWS to capture username & password and EditThisCookie is used to bypass 2FA"
-      url: "https://www.vdalabs.com/2019/10/01/phishing-users-using-evilginx-and-bypassing-2fa/?fbclid=IwAR1xYC8CovAkc-ff7Vj03rxji8aSrUBd05cETbfQOWGJqkKGZVP2EfQ_kO0"
+      url: "https://www.vdalabs.com/2019/10/01/phishing-users-using-evilginx-and-bypassing-2fa/"
 
     - name: "State Hackers Use IoT to Breach Networks"
       description: "hackers break into IoT devices, commonly through default passwords, and compromise networks through them"

@@ -174,8 +174,20 @@
       description: "Women in Cybersecurity resource portal: readings, online learning, students, certificates, etc."
       url: "https://www.wicys.org/resources"
 
-- name: "Capture The Flag (CTF) and practice"
+- name: "Capture The Flag (CTF), Competitions, Practice"
   links:
+    - name: "SecurityBlueTeam"
+      description: "defensive cyber operations online"
+      url: "https://securityblue.team/"
+
+    - name: "Collegiate Cyber Defense Competition (CCDC)"
+      description: "team-based network defense competition to protect it against real pentesters"
+      url: "https://www.nationalccdc.org/index.php/competition/competitors/rules"
+
+    - name: "Collegiate Penetration Testing Competition"
+      description: "team-based pentesting competition where you pentest the network, write and present the report"
+      url: "https://nationalcptc.org/"
+
     - name: "CTF Time"
       description: "a calendar and info on almost all CTFs that are out there"
       url: "https://ctftime.org/"

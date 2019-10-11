@@ -1,5 +1,9 @@
 - name: "Curriculum, Courses, Careers"
   links:
+    - name: "Free Training from SANS"
+      description: "forensics, intrusion detection, security operations, pentesting via quizzes, exams, and tutorials"
+      url: "https://www.cyber-fasttrack.org/"
+
     - name: "Cybersecurity for Future Presidents Course"
       description: "a course to promote understanding cybersecurity, privacy, and intellectual property issues from technical and social perspectives"
       url: "http://research.lemoyne.edu/Cybersecurity-for-Future-Presidents"

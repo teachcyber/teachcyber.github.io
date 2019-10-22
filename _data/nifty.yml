@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Eavesdropping on Google Home and Alexa"
+      description: "video demos of third-party apps eavesdropping on your conversations without you knowing it"
+      url: "https://arstechnica.com/information-technology/2019/10/alexa-and-google-home-abused-to-eavesdrop-and-phish-passwords/"
+
     - name: "Iron Geek"
       description: "Video archive of past security conference presentations"
       url: "https://www.irongeek.com/i.php?page=security/hackingillustrated"

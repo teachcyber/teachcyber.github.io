@@ -176,6 +176,10 @@
 
 - name: "Capture The Flag (CTF), Competitions, Practice"
   links:
+    - name: "Hivestorm Cyber Defense"
+      description: "free collegiate-focused cyber defense competition, teams of 2-4 players, the goal is to fix security issues in provided virtual machines"
+      url: "http://www.hivestorm.org"
+  
     - name: "SecurityBlueTeam"
       description: "defensive cyber operations online"
       url: "https://securityblue.team/"

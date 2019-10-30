@@ -58,6 +58,10 @@
 
 - name: "Cybersecurity Degree Programs and Scholarships"
   links:
+    - name: "A Variety of Cybersecurity Scholarships"
+      description: "scholarships for women, undergraduate, graduate, veterans, ISC2 scholarships"
+      url: "https://www.iamcybersafe.org/s/scholarships"
+
     - name: "Cyber Degrees"
       description: "an extensive search of schools with online, associates, bachelors, masters, PhD, and certificate programs in security based on ranking and location"
       url: "https://www.cyberdegrees.org/"

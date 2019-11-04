@@ -1,3 +1,15 @@
+- name: "Cybersecurity, Technology, and Society"
+  url: "https://sites.wp.odu.edu/cyse-200/"
+  languages: "No programming"
+  modules:
+    - name: "Introduction to cybersecurity through interdisciplinary lens"
+    - name: "Information technology and cybersecurity"
+    - name: "Engineering and cybersecurity"
+    - name: "Business and cybersecurity"
+    - name: "Computer science and cybersecurity"
+    - name: "Criminal justice and cybersecurity"
+    - name: "Philosophy and cybersecurity"
+
 - name: "Security Injections: Interdisciplinary"
   url: "http://cis1.towson.edu/~cssecinj/"
   languages: "No programming"

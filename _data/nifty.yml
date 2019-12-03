@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Hacking an Andoird TV under 2 minutes"
+      description: "a short article about hacking any Android TV with a video at the end"
+      url: "https://www.linkedin.com/pulse/hacking-android-tv-less-than-2-minutes-valerio-mulas/"
+
     - name: "Eavesdropping on Google Home and Alexa"
       description: "video demos of third-party apps eavesdropping on your conversations without you knowing it"
       url: "https://arstechnica.com/information-technology/2019/10/alexa-and-google-home-abused-to-eavesdrop-and-phish-passwords/"

@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "StrandHogg Android Vulnerability"
+      description: "malware that can be disguised as any android app to read SMS, steal photos, hijack social media accounts, GPS location, listen to the microphone, intercept credentials and 2 FA"
+      url: "https://www.youtube.com/watch?v=plP96fPJSa4"
+
     - name: "Hacking an Andoird TV under 2 minutes"
       description: "a short article about hacking any Android TV with a video at the end"
       url: "https://www.linkedin.com/pulse/hacking-android-tv-less-than-2-minutes-valerio-mulas/"

@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Pentesters Strike Back"
+      description: "a fun video describing pentesting analysis of Star Wars Episode IV"
+      url: "https://vimeo.com/247043527"
+
     - name: "StrandHogg Android Vulnerability"
       description: "malware that can be disguised as any android app to read SMS, steal photos, hijack social media accounts, GPS location, listen to the microphone, intercept credentials and 2 FA"
       url: "https://www.youtube.com/watch?v=plP96fPJSa4"

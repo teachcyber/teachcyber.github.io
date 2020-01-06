@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Hacking Tools Used to Get into an Office"
+      description: "a video talking about stealing key cards through the air, getting into hotel, NFC spoofers"
+      url: "https://gizmodo.com/the-tools-hackers-use-to-steal-your-offices-secrets-1822569140"
+
     - name: "Pentesters Strike Back"
       description: "a fun video describing pentesting analysis of Star Wars Episode IV"
       url: "https://vimeo.com/247043527"

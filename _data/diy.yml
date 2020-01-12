@@ -1,5 +1,9 @@
 - name: "Curriculum, Courses, Careers"
   links:
+    - name: "A Graduate Course in Applied Cryptography"
+      description: "secret key cryptography, public key cryptography, protocols, and cryptography theory"
+      url: "https://toc.cryptobook.us/"
+
     - name: "Free Training from SANS"
       description: "forensics, intrusion detection, security operations, pentesting via quizzes, exams, and tutorials"
       url: "https://www.cyber-fasttrack.org/"

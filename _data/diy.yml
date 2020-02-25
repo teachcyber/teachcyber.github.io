@@ -1,5 +1,9 @@
 - name: "Curriculum, Courses, Careers"
   links:
+    - name: "Free Online Course for Community College Students"
+      description: "offensive security and digital forensics, internet of things, cryptography, and blockchain technologies"
+      url: "http://cybercourse.isi.jhu.edu/"
+
     - name: "A Graduate Course in Applied Cryptography"
       description: "secret key cryptography, public key cryptography, protocols, and cryptography theory"
       url: "https://toc.cryptobook.us/"

@@ -96,6 +96,10 @@
 
 - name: "Individual Challenges for Cybersecurity Courses"
   links:
+    - name: "Secure Scripting"
+      description: "introduction to Linux, secure coding principles and practices, introduction to Python"
+      url: "https://sites.google.com/site/securescripting"
+
     - name: "Malware Traffic Analysis"
       description: "PCAP files for malware traffic analysis, exercises, and tutorials with wireshark"
       url: "https://malware-traffic-analysis.net/"

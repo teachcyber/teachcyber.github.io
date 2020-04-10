@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "How hackers hack you completely"
+      description: "a DefCon experience of Kevin Roose who let hackers hack him"
+      url: "https://www.youtube.com/watch?v=bjYhmX_OUQQ"
+
     - name: "Hacking Tools Used to Get into an Office"
       description: "a video talking about stealing key cards through the air, getting into hotel, NFC spoofers"
       url: "https://gizmodo.com/the-tools-hackers-use-to-steal-your-offices-secrets-1822569140"

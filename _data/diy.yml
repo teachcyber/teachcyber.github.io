@@ -96,6 +96,10 @@
 
 - name: "Individual Challenges for Cybersecurity Courses"
   links:
+    - name: "Labs from Cyber Threat Hunting"
+      description: "malware analysis, login location anomaly detection, resource anomaly detection, employee activity anomaly detection"
+      url: "https://sites.google.com/uncc.edu/cyberthreathunting/labs?authuser=0"
+
     - name: "Secure Scripting"
       description: "introduction to Linux, secure coding principles and practices, introduction to Python"
       url: "https://sites.google.com/site/securescripting"

@@ -194,8 +194,12 @@
       description: "Women in Cybersecurity resource portal: readings, online learning, students, certificates, etc."
       url: "https://www.wicys.org/resources"
 
-- name: "Capture The Flag (CTF), Competitions, Practice"
+- name: "Capture The Flag (CTF), Competitions, Practice, Training"
   links:
+    - name: "KONTRA OWASP Top 10"
+      description: "interactive application security training modules including ruby rest-client backdoor, TikTok xss, Capital Once SSRF, privilege escalation, PII in URL, user enumeration, weak randomness, injections, session fixation, forced browsing, etc."
+      url: "https://application.security/free-application-security-training"
+
     - name: "CryptoHack"
       description: "modern cryptography challenges including block ciphers, RSA, Diffie-Hellman, Elliptic Curves, etc."
       url: "https://cryptohack.org"

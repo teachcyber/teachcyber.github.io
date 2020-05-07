@@ -1,5 +1,9 @@
 - name: "Curriculum, Courses, Careers"
   links:
+    - name: "Cybersecurity Guide"
+      description: "guide for cybersecurity careers, internships, certifications, coding, scholarships, security clearance, degrees, and online programs"
+      url: "https://cybersecurityguide.org"
+
     - name: "Free Online Course for Community College Students"
       description: "offensive security and digital forensics, internet of things, cryptography, and blockchain technologies"
       url: "http://cybercourse.isi.jhu.edu/"

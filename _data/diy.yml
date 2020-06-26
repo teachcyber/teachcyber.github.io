@@ -1,5 +1,9 @@
-- name: "Curriculum, Courses, Careers"
+- name: "Curriculum, Courses, Careers, K12"
   links:
+    - name: "K12 Free Cybersecurity Curricula"
+      description: "cyber education resources and curriculum for K12 teachers"
+      url: "https://cyber.org"
+
     - name: "Cybersecurity Guide"
       description: "guide for cybersecurity careers, internships, certifications, coding, scholarships, security clearance, degrees, and online programs"
       url: "https://cybersecurityguide.org"
@@ -41,7 +45,7 @@
       url: "https://www.freecodecamp.org/news/670-free-online-programming-computer-science-courses-you-can-start-in-december-a90149ac6de4/"
 
     - name: "CLARK"
-      description: "cybersecurity curriculum for colleges and universities with assignments"
+      description: "cybersecurity curriculum for K12, colleges and universities with assignments"
       url: "https://clark.center/"
 
     - name: "Sample High School Curriculum"

@@ -204,6 +204,10 @@
 
 - name: "Capture The Flag (CTF), Competitions, Practice, Training"
   links:
+    - name: "OWASP Coding Dojo"
+      description: "cyber puzzles, CTF, attack and defense lessons, SANS 25, hacking challanges, training and competition platform"
+      url: "https://owasp.org/www-project-secure-coding-dojo/"
+
     - name: "KONTRA OWASP Top 10"
       description: "interactive application security training modules including ruby rest-client backdoor, TikTok xss, Capital Once SSRF, privilege escalation, PII in URL, user enumeration, weak randomness, injections, session fixation, forced browsing, etc."
       url: "https://application.security/free-application-security-training"

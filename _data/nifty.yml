@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Tsunami Vulnerability Scanner"
+      description: "network security scanner, able to detect high severity vulnerabilities, based on nmap and ncrack, developed by Google"
+      url: "https://github.com/google/tsunami-security-scanner"
+
     - name: "Wardriving"
       description: "captured WiFi networks around the globe"
       url: "https://wigle.net/"

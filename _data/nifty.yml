@@ -102,6 +102,10 @@
       
 - name: "Articles"
   links:
+    - name: "Epic Twitter Hack Explained"
+      description: "social engineering, email swapping, and many bitcoins later in a massive twitter hack of well-known people"
+      url: "https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/"
+
     - name: "Critical Infrastructure Intelligence Gathering"
       description: "using tools to analyze and access cameras, printers, and Industrial Control Systems (ICS)/SCADA infrastructure terminals"
       url: "https://www.icscybersecurityconference.com/intelligence-gathering-on-u-s-critical-infrastructure/"

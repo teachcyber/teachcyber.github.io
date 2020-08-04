@@ -1,8 +1,16 @@
 - name: "Curriculum, Courses, Careers, K12"
   links:
+    - name: "Course Materials from the National Cybersecurity Training & Education Center"
+      description: "cybersecurity lessons, modules, and course materials including critical infrastructure, cryptography, threats, risk, ethics, camp, identity, secure coding and networking"
+      url: "https://ncyte.net/resources/cybersecurity-course-materials"
+
     - name: "K12 Free Cybersecurity Curricula"
       description: "cyber education resources and curriculum for K12 teachers"
       url: "https://cyber.org"
+
+    - name: "Hacker Highschool"
+      description: "self-guided curriculum for cybersafety and cybersecurity designed for 12-20 years old"
+      url: "https://www.hackerhighschool.org/"
 
     - name: "Cybersecurity Guide"
       description: "guide for cybersecurity careers, internships, certifications, coding, scholarships, security clearance, degrees, and online programs"
@@ -72,8 +80,16 @@
       description: "curricular guidelines for post-secondary degree programs in cybersecurity - a cybersecurity framework with knowledge areas and industry perspectives"
       url: "https://cybered.hosting.acm.org/wp/"
 
-- name: "Cybersecurity Degree Programs and Scholarships"
+- name: "Cybersecurity Degree Programs, Scholarships, Internships"
   links:
+    - name: "Internship Resources from NCYTE Center"
+      description: "U.S. Intelligence Student Programs Search, DHS Cybersecurity Internship Program, Jobs.cyberindustry.org"
+      url: "https://ncyte.net/resources/student-resources/student-resource-library/internship-programs"
+
+    - name: "Cybersecurity Scholarship Sources"
+      description: "CyberCorps, ISSA, NCWIT, ISC2, CRA-W, and CISCO scholarships"
+      url: "https://ncyte.net/resources/student-resources/student-resource-library/scholarship-sources"
+
     - name: "A Variety of Cybersecurity Scholarships"
       description: "scholarships for women, undergraduate, graduate, veterans, ISC2 scholarships"
       url: "https://www.iamcybersafe.org/s/scholarships"

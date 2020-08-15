@@ -220,6 +220,10 @@
 
 - name: "Capture The Flag (CTF), Competitions, Practice, Training"
   links:
+    - name: "CTF at Home from GitLab"
+      description: "GitLab's CTF to easily run at home using docker containers"
+      url: "https://gitlab.com/gitlab-com/gl-security/ctf-at-home"
+
     - name: "OWASP Coding Dojo"
       description: "cyber puzzles, CTF, attack and defense lessons, SANS 25, hacking challanges, training and competition platform"
       url: "https://owasp.org/www-project-secure-coding-dojo/"

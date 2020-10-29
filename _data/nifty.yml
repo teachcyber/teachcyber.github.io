@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "GTFOBins"
+      description: "Unix binaries that can be exploited by an attacker to bypass local security restriction"
+      url: "https://gtfobins.github.io/"
+
     - name: "Ciphey"
       description: "fully automated decryption tool using natural language processing and artificial intelligence"
       url: "https://github.com/Ciphey/Ciphey"

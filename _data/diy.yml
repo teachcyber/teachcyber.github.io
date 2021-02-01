@@ -1,5 +1,9 @@
 - name: "Curriculum, Courses, Careers, K12"
   links:
+    - name: "Machine Learning for Security"
+      description: "a self-paced machine learning course from data gathering to implementation in python"
+      url: "https://security.kiwi/"
+
     - name: "Course Materials from the National Cybersecurity Training & Education Center"
       description: "cybersecurity lessons, modules, and course materials including critical infrastructure, cryptography, threats, risk, ethics, camp, identity, secure coding and networking"
       url: "https://ncyte.net/resources/cybersecurity-course-materials"

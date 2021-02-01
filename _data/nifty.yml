@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Rustscan"
+      description: "a fast scanner of ports (65K ports in 3 seconds) written in Rust and using some of the nmap features"
+      url: "https://github.com/RustScan/RustScan"
+
     - name: "TunyCheck"
       description: "captures traffic from any device (e.g., mobile) to automatically analyze suspicious activities happening on that device"
       url: "https://github.com/KasperskyLab/TinyCheck"

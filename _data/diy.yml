@@ -12,6 +12,10 @@
       description: "cyber education resources and curriculum for K12 teachers"
       url: "https://cyber.org"
 
+    - name: "CyberStart America"
+      description: "a cyber start for high school students to master cybersecurity, over 200 challenges in CTF"
+      url: "https://www.cyberstartamerica.org/"
+
     - name: "Hacker Highschool"
       description: "self-guided curriculum for cybersafety and cybersecurity designed for 12-20 years old"
       url: "https://www.hackerhighschool.org/"

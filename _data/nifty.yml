@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Assetnote Wordlists"
+      description: "custom-made wordlists for subdomain enumeration"
+      url: "https://wordlists.assetnote.io/"
+
     - name: "Rustscan"
       description: "a fast scanner of ports (65K ports in 3 seconds) written in Rust and using some of the nmap features"
       url: "https://github.com/RustScan/RustScan"

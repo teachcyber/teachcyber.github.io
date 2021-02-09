@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "PEASS"
+      description: "privilege escalation awesome scripts suite with colors"
+      url: "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"
+
     - name: "Assetnote Wordlists"
       description: "custom-made wordlists for subdomain enumeration"
       url: "https://wordlists.assetnote.io/"

@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Teler"
+      description: "simple and easy to use real-time HTTP intrusion detection system that reads in logs and provides information about attacks"
+      url: "https://github.com/kitabisa/teler"
+
     - name: "PEASS"
       description: "privilege escalation awesome scripts suite with colors"
       url: "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"

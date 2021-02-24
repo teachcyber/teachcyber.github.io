@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Traitor"
+      description: "automatic Linux privilege escalation via exploitation like GTFObins"
+      url: "https://github.com/liamg/traitor"
+
     - name: "Teler"
       description: "simple and easy to use real-time HTTP intrusion detection system that reads in logs and provides information about attacks"
       url: "https://github.com/kitabisa/teler"

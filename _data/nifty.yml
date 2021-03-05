@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "BruteShark"
+      description: "Network forensic analysis tool: password extractiion, build a network map, reconstruct TCP sessions, extract hashes and DNS queries, file carving"
+      url: "https://github.com/odedshimon/BruteShark"
+
     - name: "Traitor"
       description: "automatic Linux privilege escalation via exploitation like GTFObins"
       url: "https://github.com/liamg/traitor"

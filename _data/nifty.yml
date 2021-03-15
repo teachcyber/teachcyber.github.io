@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Netz"
+      description: "automatically discover Internet-wide misconfigurations (ex. on AWS runs for 10 mins with 4 NICs and scans the whole Internet)"
+      url: "https://github.com/spectralops/netz"
+
     - name: "BruteShark"
       description: "Network forensic analysis tool: password extractiion, build a network map, reconstruct TCP sessions, extract hashes and DNS queries, file carving"
       url: "https://github.com/odedshimon/BruteShark"

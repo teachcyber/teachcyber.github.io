@@ -150,6 +150,10 @@
       
 - name: "Articles"
   links:
+    - name: "Hacking The Cloud"
+      description: "encyclopedia of tactics and techniques to attack cloud systems: AWS, Azure, GCP"
+      url: "https://hackingthe.cloud"
+
     - name: "Epic Twitter Hack Explained"
       description: "social engineering, email swapping, and many bitcoins later in a massive twitter hack of well-known people"
       url: "https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/"

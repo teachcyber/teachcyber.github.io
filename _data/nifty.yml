@@ -10,7 +10,7 @@
 
     - name: "Password Manager"
       description: "use a password manager, it is time (there are many out there, this one is just an example)"
-      url: "https://www.lastpass.com/"
+      url: "https://bitwarden.com/"
 
     - name: "YubiKey"
       description: "the best 2-factor authentication is a physical security key (there are a few out there, this one is just an example)"

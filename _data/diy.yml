@@ -90,6 +90,10 @@
 
 - name: "Cybersecurity Degree Programs, Scholarships, Internships"
   links:
+    - name: "Cybersecurity Certifications Roadmap"
+      description: "Paul Jerimy's extensive security certifications/certs roadmap"
+      url: "https://pauljerimy.com/security-certification-roadmap/"
+
     - name: "National Cyber Scholarship Foundation"
       description: "college scholarships, cybersecurity training, cyber scholarship competition, CyberStart America"
       url: "https://nationalcyberscholarship.org"

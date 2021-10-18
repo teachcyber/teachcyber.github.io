@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Ddosify"
+      description: "high-performance load testing tool, written in Golang, dos, ddos"
+      url: "https://github.com/ddosify/ddosify"
+
     - name: "Netz"
       description: "automatically discover Internet-wide misconfigurations (ex. on AWS runs for 10 mins with 4 NICs and scans the whole Internet)"
       url: "https://github.com/spectralops/netz"

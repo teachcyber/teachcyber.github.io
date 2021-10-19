@@ -330,6 +330,10 @@
 
 - name: "Cheat Sheets"
   links:
+    - name: "Secure Coding Handbook"
+      description: "resources on secure coding, code, training, notes, attacks"
+      url: "https://github.com/joswha/Secure-Coding-Handbook/blob/master/SUMMARY.md"
+
     - name: "Pentestmonkey"
       description: "reverse shells, SSH, different database injections"
       url: "http://pentestmonkey.net/category/cheat-sheet"

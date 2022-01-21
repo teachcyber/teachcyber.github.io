@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "HOUDINI"
+      description: "Hundreds of Offensive and Useful Docker Images for Network Intrusion"
+      url: "https://houdini.secsi.io/"
+
     - name: "Ddosify"
       description: "high-performance load testing tool, written in Golang, dos, ddos"
       url: "https://github.com/ddosify/ddosify"

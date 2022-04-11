@@ -186,6 +186,10 @@
 
 - name: "Free learning"
   links:
+    - name: "Open Source Security Guide "
+      description: "learning resources, security standards, security tools, network security"
+      url: "https://github.com/mikeroyal/Open-Source-Security-Guide"
+
     - name: "Certificate Preparation Videos"
       description: "Professor Messer videos for CompTIA Security+, A+, Network+ preparation"
       url: "https://www.youtube.com/user/professormesser"

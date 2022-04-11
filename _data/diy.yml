@@ -240,6 +240,10 @@
 
 - name: "Capture The Flag (CTF), Competitions, Practice, Training"
   links:
+    - name: "AWS/GitLab CI/CD themed CTF"
+      description: "Self-hosted hack the cloud CTF on AWS"
+      url: "https://hackingthe.cloud/aws/capture_the_flag/cicdont/"
+
     - name: "CTF at Home from GitLab"
       description: "GitLab's CTF to easily run at home using docker containers"
       url: "https://gitlab.com/gitlab-com/gl-security/ctf-at-home"

@@ -84,6 +84,14 @@
 
 - name: "Tools"
   links:
+    - name: "Arsenal"
+      description: "quick inventory and launcher for hacking programs in Linux; helps to remember pentest commands"
+      url: "https://github.com/Orange-Cyberdefense/arsenal"
+
+    - name: "Nidhogg"
+      description: "all-in-one simple to use rootkit for red teams"
+      url: "https://github.com/Idov31/Nidhogg"
+
     - name: "HOUDINI"
       description: "Hundreds of Offensive and Useful Docker Images for Network Intrusion"
       url: "https://houdini.secsi.io/"

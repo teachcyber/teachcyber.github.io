@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "CloudFox"
+      description: "situational awareness in cloud environments for pentesters"
+      url: "https://github.com/BishopFox/cloudfox"
+
     - name: "Arsenal"
       description: "quick inventory and launcher for hacking programs in Linux; helps to remember pentest commands"
       url: "https://github.com/Orange-Cyberdefense/arsenal"

@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Lumos"
+      description: "an app that identifies wireless devices' location by just walking around the area in augmented reality"
+      url: "https://github.com/rahul-anand/Lumos"
+
     - name: "CloudFox"
       description: "situational awareness in cloud environments for pentesters"
       url: "https://github.com/BishopFox/cloudfox"

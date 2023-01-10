@@ -356,6 +356,10 @@
 
 - name: "Penetration Testing"
   links:
+    - name: "Villain"
+      description: "Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team"
+      url: "https://github.com/t3l3machus/Villain"
+
     - name: "SecLists"
       description: "lists of usernames, passwords, URLs, fuzzing payloads, web shells, etc."
       url: "https://github.com/danielmiessler/SecLists"

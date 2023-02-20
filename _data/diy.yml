@@ -240,6 +240,10 @@
 
 - name: "Capture The Flag (CTF), Competitions, Practice, Training"
   links:
+    - name: "Guide to Learning CTF and Security"
+      description: "CTF write-ups, resources, cheatcheets. Crypto, web, forensics, steganography, binary exploitation, reverse engineering, OSINT."
+      url: "https://github.com/Adamkadaban/CTFs"
+
     - name: "AWS/GitLab CI/CD themed CTF"
       description: "Self-hosted hack the cloud CTF on AWS"
       url: "https://hackingthe.cloud/aws/capture_the_flag/cicdont/"

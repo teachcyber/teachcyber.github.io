@@ -186,6 +186,10 @@
 
 - name: "Free learning"
   links:
+    - name: "Becoming a SOC analyst"
+      description: "creating a set of virtual machines for security operations center (SOC) jobs"
+      url: "https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro"
+
     - name: "Open Source Security Guide "
       description: "learning resources, security standards, security tools, network security"
       url: "https://github.com/mikeroyal/Open-Source-Security-Guide"

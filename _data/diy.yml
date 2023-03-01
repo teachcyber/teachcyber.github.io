@@ -306,6 +306,10 @@
 
 - name: "Vulnerable Apps / Systems"
   links:
+    - name: "Azure Goat"
+      description: "vulnerable cloud deployment for cloud pentesting, secure coding, detection and mitigation with Azure"
+      url: "https://github.com/ine-labs/AzureGoat"
+
     - name: "Pentesting Practice Labs"
       description: "a mindmap of all kinds of vulnerable apps and systems"
       url: "https://www.amanhardikar.com/mindmaps/Practice.html"

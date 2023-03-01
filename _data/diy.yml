@@ -306,6 +306,10 @@
 
 - name: "Vulnerable Apps / Systems"
   links:
+    - name: "TryHackMe"
+      description: "hands-on cybersecurity training through real-world scenarious"
+      url: "https://tryhackme.com/"
+
     - name: "Azure Goat"
       description: "vulnerable cloud deployment for cloud pentesting, secure coding, detection and mitigation with Azure"
       url: "https://github.com/ine-labs/AzureGoat"

@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "PowerHub"
+      description: "PowerShell post exploitation tool helping pentesters transfer data,bypassing endpoint protection - fileless, stateless, obfuscation, AMSI bypass"
+      url: "https://adrianvollmer.github.io/PowerHub/latest/"
+
     - name: "ZeusCloud"
       description: "open source cloud security, monitoring, and analysis"
       url: "https://github.com/Zeus-Labs/ZeusCloud"

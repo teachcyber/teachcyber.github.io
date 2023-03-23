@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "Nzyme"
+      description: "wifi network defense, detects rogues access points, wifi pineapple, tracks wifi hacking devices"
+      url: "https://www.nzyme.org/"
+
     - name: "PowerHub"
       description: "PowerShell post exploitation tool helping pentesters transfer data,bypassing endpoint protection - fileless, stateless, obfuscation, AMSI bypass"
       url: "https://adrianvollmer.github.io/PowerHub/latest/"

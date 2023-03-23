@@ -84,6 +84,10 @@
 
 - name: "Tools"
   links:
+    - name: "ZeusCloud"
+      description: "open source cloud security, monitoring, and analysis"
+      url: "https://github.com/Zeus-Labs/ZeusCloud"
+
     - name: "Hack Dojo"
       description: "search engine for security papers and conferences"
       url: "https://hackdojo.io"

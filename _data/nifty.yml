@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "How Famous YouTubers Get Hacked"
+      description: "an example of AV evasion and a full hack of YouTube channel (Linux Tech tips) for streamjacking"
+      url: "https://youtu.be/nYdS3FIu3rI"
+
     - name: "How hackers hack you completely"
       description: "a DefCon experience of Kevin Roose who let hackers hack him"
       url: "https://www.youtube.com/watch?v=bjYhmX_OUQQ"

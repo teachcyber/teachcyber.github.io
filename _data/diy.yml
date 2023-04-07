@@ -162,6 +162,10 @@
 
 - name: "News to read"
   links:
+    - name: "TalkBack"
+      description: "smart infosec resource and news aggregator"
+      url: "https://talkback.sh"
+
     - name: "NetSec on Reddit"
       description: "security vulnerablities, walk-throughs, events, tools, write-ups"
       url: "https://www.reddit.com/r/netsec/"

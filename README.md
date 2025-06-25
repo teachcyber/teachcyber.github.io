@@ -1,6 +1,6 @@
 # Introduction
 
-TeachCyber is a compilation of free online resources to help teach and learn cybersecurity. It is running at https://teachcyber.tk
+TeachCyber is a compilation of free online resources to help teach and learn cybersecurity. It is running at https://teachcyber.vford.com
 
 # Contribution
 

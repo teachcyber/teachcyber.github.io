@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Getting your Mac hacked"
+      description: "a live demo of how you can get hacked when connected to a rogue WiFi access point"
+      url: "https://www.youtube.com/watch?v=PWVN3Rq4gzw"
+
     - name: "Watch a live social engineering on IT helpdesk"
       description: "a hacker compromises IT helpdesk person's PC under 2 minutes with a single phone call"
       url: "https://www.youtube.com/watch?v=PWVN3Rq4gzw"

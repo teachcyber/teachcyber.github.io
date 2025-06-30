@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Watch a live social engineering on IT helpdesk"
+      description: "a hacker compromises IT helpdesk person's PC under 2 minutes with a single phone call"
+      url: "https://www.youtube.com/watch?v=PWVN3Rq4gzw"
+
     - name: "How Famous YouTubers Get Hacked"
       description: "an example of AV evasion and a full hack of YouTube channel (Linux Tech tips) for streamjacking"
       url: "https://youtu.be/nYdS3FIu3rI"

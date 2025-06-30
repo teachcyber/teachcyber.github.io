@@ -34,9 +34,9 @@
       description: "a DefCon experience of Kevin Roose who let hackers hack him"
       url: "https://www.youtube.com/watch?v=fHhNWAKw0bY"
 
-    - name: "Hacking Tools Used to Get into an Office"
-      description: "a video talking about stealing key cards through the air, getting into hotel, NFC spoofers"
-      url: "https://gizmodo.com/the-tools-hackers-use-to-steal-your-offices-secrets-1822569140"
+    - name: "Hacking using simple tricks with a Microsoft Word script and Powershell"
+      description: "a live mode of remotely controlling a Windows PC via a Word payload that connects to a VNC viewer in the background"
+      url: "https://www.youtube.com/watch?v=_O1zfm5wavo"
 
     - name: "Pentesters Strike Back"
       description: "a fun video describing pentesting analysis of Star Wars Episode IV"

@@ -18,6 +18,10 @@
 
 - name: "Videos"
   links:
+    - name: "Reading someone else's SMS and taking calls for them without their knowledge"
+      description: "exposing an SS7 flaw in phone system to intercept and take calls/texts for phones you don't have access to"
+      url: "https://www.youtube.com/watch?v=wVyu7NB7W6Y"
+
     - name: "Getting your Mac hacked"
       description: "a live demo of how you can get hacked when connected to a rogue WiFi access point"
       url: "https://www.youtube.com/watch?v=CV39QzFpJx4"
@@ -46,7 +50,7 @@
       description: "malware that can be disguised as any android app to read SMS, steal photos, hijack social media accounts, GPS location, listen to the microphone, intercept credentials and 2 FA"
       url: "https://www.youtube.com/watch?v=plP96fPJSa4"
 
-    - name: "Hacking an Andoird TV under 2 minutes"
+    - name: "Hacking an Android TV under 2 minutes"
       description: "a short article about hacking any Android TV with a video at the end"
       url: "https://www.linkedin.com/pulse/hacking-android-tv-less-than-2-minutes-valerio-mulas/"
 
